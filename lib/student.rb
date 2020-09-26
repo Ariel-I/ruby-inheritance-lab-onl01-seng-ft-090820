@@ -6,7 +6,8 @@ class Student < User
     @knowledge = knowledge
   end 
   
-  
-  
+  def learn(knowledge="")
+    
+  end
 
 end
